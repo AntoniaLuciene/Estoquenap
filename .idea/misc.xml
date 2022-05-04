@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Luciene/AndroidStudioProjects/Estoque/app/src/main/res/layout/activity_controle__estoque.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Luciene/AndroidStudioProjects/Estoque/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Luciene/AndroidStudioProjects/Estoque/app/src/main/res/layout/activity_novo__controlador.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Luciene/AndroidStudioProjects/Estoque/app/src/main/res/layout/add_item.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Luciene/AndroidStudioProjects/Estoque/app/src/main/res/layout/dados_func.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Luciene/AndroidStudioProjects/Estoque/app/src/main/res/layout/fragment_controle__estoque.xml" value="0.17074275362318841" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android API 32 Platform" project-jdk-type="Android SDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
